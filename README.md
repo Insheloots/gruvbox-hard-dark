@@ -1,6 +1,6 @@
 # VSCode Theme: Gruvbox Dark Hard - Darker
 
-![Gruvbox Dark Hard](screenshot.png)
+![Gruvbox Dark Hard](screenshot.PNG)
 
 This is a custom theme for Visual Studio Code based on the popular "gruvbox dark hard" style but with darker background colors. It offers a dark and striking aesthetic that is perfect for those who prefer a development interface with more intense tones.
 
@@ -8,7 +8,7 @@ This is a custom theme for Visual Studio Code based on the popular "gruvbox dark
 
 Here is a screenshot of the theme applied to Visual Studio Code:
 
-![Screenshot](screenshot.png)
+![Screenshot](screenshot.PNG)
 
 ## Installation
 
