@@ -1,0 +1,21 @@
+{
+  "name": "gruvbox-dark-hard-modification",
+  "displayName": "gruvbox dark hard modification",
+  "description": "Theme based in gruvbox by jdinhify but with background modification",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.79.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "gruvbox hard dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/gruvbox hard dark-color-theme.json"
+      }
+    ]
+  }
+}
